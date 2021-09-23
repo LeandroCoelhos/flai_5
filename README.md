@@ -20,6 +20,8 @@ produto
 - ➔ cliente: propensão de compra do cliente para um certo produto da empresa
 
 Link do Ranking: 
+
+3 º Lugar
 [Geral](https://github.com/gitflai/ranking/blob/main/4compMLflai.csv)
 
 [Posições](https://github.com/gitflai/ranking/blob/main/4compMLflairank.csv)
